@@ -559,7 +559,7 @@ class Order {
  *   ITEM|name|category|price|qty|discount
  *   END_ORDER
  * 
- * @author Restaurant Management System
+ * @author Abhinay Kumar Sahu
  * @version 2.0
  */
 class Sales {
@@ -919,7 +919,7 @@ class Sales {
  * All user input is validated and sanitized through helper methods.
  * Automatically loads/saves data to persist state across sessions.
  * 
- * @author Restaurant Management System
+ * @author Abhinay Kumar Sahu
  * @version 2.0
  */
 public class RestaurantMain {
